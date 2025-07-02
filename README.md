@@ -38,16 +38,16 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
 
 ### Cybersecurity & Forensics
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Security%20OS-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Operating%20System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-purple?style=for-the-badge&logo=autopsy&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensic%20Imaging-blue?style=for-the-badge&logo=accessdata&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-Memory%20Analysis-8B0000?style=for-the-badge&logo=volatility&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-Malware%20Detection-FF4500?style=for-the-badge&logo=yara&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-Security%20OS-00D4AA?style=flat-square&logo=parrotsecurity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Operating%20System-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-purple?style=flat-square&logo=autopsy&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensic%20Imaging-blue?style=flat-square&logo=accessdata&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-Memory%20Analysis-8B0000?style=flat-square&logo=volatility&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-Malware%20Detection-FF4500?style=flat-square&logo=yara&logoColor=white)
 
 </div>
 
