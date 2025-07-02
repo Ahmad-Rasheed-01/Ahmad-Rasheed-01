@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Software+Developer+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Digital+Forensics+&+Cyber+Security+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,8 +14,8 @@
 - 🔭 I'm currently working on **exciting projects** and expanding my skill set
 - 🌱 I'm currently learning **new technologies** and best practices
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **programming, technology, and software development**
-- 📫 How to reach me: **[Your Email]** or connect with me on social media
+- 💬 Ask me about **programming, technology, and Cyber Security**
+<!-- - 📫 How to reach me: **[Your Email]** or connect with me on social media -->
 - ⚡ Fun fact: **I love solving complex problems and turning ideas into reality!**
 
 ---
@@ -25,7 +25,7 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,powershell,cpp,c,html,css" alt="Programming Languages" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,bootstrap" alt="Frameworks" />
@@ -71,16 +71,16 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-1&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/your-project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-1&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/Linux-Investigation-Triage-Environment-LITE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-2&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/your-project-2)
 
-</div>
+</div> -->
 
-> 💡 **Note**: Replace `your-project-1` and `your-project-2` with your actual repository names to showcase your best work!
+<!-- > 💡 **Note**: Replace `your-project-1` and `your-project-2` with your actual repository names to showcase your best work! -->
 
 ---
 
