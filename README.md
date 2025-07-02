@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Digital+Forensics+%26+Cyber+Security+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Digital+Forensics+%26+Cyber+Security+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,8 +14,8 @@
 - 🌱 I'm currently learning **new technologies** and best practices
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **programming, technology, and Cyber Security**
-<!-- - 📫 How to reach me: **[Your Email]** or connect with me on social media -->
 - ⚡ Fun fact: **I love solving complex problems and turning ideas into reality!**
+<!-- - 📫 How to reach me: **[Your Email]** or connect with me on social media -->
 
 ---
 
