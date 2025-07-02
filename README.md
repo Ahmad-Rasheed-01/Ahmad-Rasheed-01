@@ -47,9 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=compact&theme=radical&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&card_width=320" alt="Most Used Languages" height="180">
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=donut&theme=radical&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" alt="Language Distribution" height="200">
 </div>
+-->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="GitHub Streak" width="500">
