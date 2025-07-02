@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Digital+Forensics+%26+Cyber+Security+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Digital+Forensics+%26+Cyber+Security+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -87,8 +87,14 @@
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="Wakatime Stats">
 </div>
+
+<!-- ## 📈 Coding Activity -->
+<!-- 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
+</div> -->
 
 ---
 
@@ -106,10 +112,10 @@
 
 ---
 
-## 💡 Random Dev Quote
+<!-- ## 💡 Inspirational Quote -->
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  <img src="./assets/images/When you say nothing.png" alt="When You Say Nothing" width="600">
 </div>
 
 ---
@@ -117,17 +123,14 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 ---
 
 <div align="center">
   <h3>⭐ Star some repositories if you find them interesting! ⭐</h3>
+  <p><em>"Code is like humor. When you have to explain it, it's bad."</em></p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 </div>
