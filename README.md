@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,bootstrap" alt="Frameworks" />
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,docker" alt="Databases & Cloud" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,docker" alt="Databases & Cloud" />
 
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" alt="Tools" />
@@ -44,7 +44,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Rasheed-01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=compact&theme=radical&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&card_width=320" alt="Most Used Languages" height="180">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=donut&theme=radical&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" alt="Language Distribution" height="200">
 </div>
 
 <div align="center">
