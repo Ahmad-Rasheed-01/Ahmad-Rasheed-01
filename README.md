@@ -27,14 +27,14 @@
 <img src="https://skillicons.dev/icons?i=python,javascript,powershell,cpp,c,html,css" alt="Programming Languages" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=electron,flask,bootstrap" alt="Frameworks" /> -->
+<img src="https://skillicons.dev/icons?i=electron,flask,bootstrap" alt="Frameworks" />
 <!-- <img src="https://skillicons.dev/icons?i=electron,react,nodejs,express,django,flask,bootstrap" alt="Frameworks" /> -->
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,sqlserver,oracle,docker" alt="Databases & Cloud" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,docker,firebase" alt="Databases & Cloud" />
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,unix" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
 
 </div>
 
@@ -84,12 +84,6 @@
 
 ---
 
-<!-- ## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="Wakatime Stats">
-</div> -->
-
 ## 📈 Coding Activity
 
 <div align="center">
@@ -105,7 +99,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-r-30a7b0275/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Chiefx0)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram) -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com) -->
 <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) -->
 
 </div>
@@ -123,14 +117,17 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 <div align="center">
   <h3>⭐ Star some repositories if you find them interesting! ⭐</h3>
-  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 </div>
