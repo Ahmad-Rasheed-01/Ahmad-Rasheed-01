@@ -38,8 +38,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
 
 ### Cybersecurity & Forensics
-<img src="https://skillicons.dev/icons?i=kali,linux" alt="Security Tools" />
-
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Security%20OS-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Operating%20System-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-purple?style=for-the-badge&logo=autopsy&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensic%20Imaging-blue?style=for-the-badge&logo=accessdata&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
