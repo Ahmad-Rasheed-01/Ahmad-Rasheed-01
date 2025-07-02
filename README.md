@@ -1,4 +1,16 @@
-## Hi there 👋
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://streak-stats.demolab.com/?user=brazilianscriptguy" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
+  </a>
+</p>
+
+
+
+
+-## Hi there 👋
 
 <!--
 **Ahmad-Rasheed-01/Ahmad-Rasheed-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
