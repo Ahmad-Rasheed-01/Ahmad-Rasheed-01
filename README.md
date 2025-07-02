@@ -87,7 +87,7 @@ s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&durati
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="Wakatime Stats">
+  <img src="https://github-readme-stats.vercel.app/waka_5483ebfc-321e-465f-8c49-5350d3c1a5d9/wakatime?username=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="Wakatime Stats">
 </div>
 
 <!-- ## 📈 Coding Activity -->
