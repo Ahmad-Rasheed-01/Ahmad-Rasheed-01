@@ -17,7 +17,7 @@
 - 💬 Ask me about **programming, technology, and Cyber Security**
 - ⚡ Fun fact: **I love solving complex problems and turning ideas into reality!**
 <!-- - 📫 How to reach me: **[Your Email]** or -->
-📫 How to reach me: connect with me on social media [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-r-30a7b0275/)
+- 📫 How to reach me: connect with me on **LinkedIn**
 
 
 ## 🛠️ Tech Stack & Tools
@@ -54,15 +54,6 @@
 
 ---
 
-<!-- ## 🏅 Certifications & Learning
-
-<div align="center">
-
-![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-blue?style=for-the-badge&logo=security)
-
-</div> -->
-
 ---
 
 ## 📊 GitHub Stats
@@ -72,11 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=compact&theme=radical&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&card_width=320" alt="Most Used Languages" height="180">
 </div>
 
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=donut&theme=radical&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" alt="Language Distribution" height="200">
-</div>
--->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="GitHub Streak" width="500">
@@ -105,22 +91,6 @@
 
 </div>
 
-<!-- > 💡 **Note**: Replace `your-project-1` and `your-project-2` with your actual repository names to showcase your best work! -->
-
----
-<!-- 
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
-</div> -->
-
-<!-- ## 📈 Coding Activity -->
-<!-- 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
-</div> -->
-
 ---
 
 ## 🌐 Connect with Me
@@ -146,12 +116,6 @@
 </div>
 
 ---
-<!-- 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</div> -->
 
 ---
 
@@ -181,3 +145,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!-- ## 🏅 Certifications & Learning
+
+<div align="center">
+
+![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-blue?style=for-the-badge&logo=security)
+
+</div> -->
+
+
+
+
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-01&layout=donut&theme=radical&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" alt="Language Distribution" height="200">
+</div>
+-->
+
+
+
+
+<!-- > 💡 **Note**: Replace `your-project-1` and `your-project-2` with your actual repository names to showcase your best work! -->
+
+---
+<!-- 
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
+</div> -->
+
+<!-- ## 📈 Coding Activity -->
+<!-- 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
+</div> -->
+
+
+
+
+<!-- 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div> -->
