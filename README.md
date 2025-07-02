@@ -18,13 +18,7 @@
 - ⚡ Fun fact: **I love solving complex problems and turning ideas into reality!**
 <!-- - 📫 How to reach me: **[Your Email]** or connect with me on social media -->
 
----
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> 3f9a5e83f44a3b2508ef9c108809b02c3d2260ba
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -132,11 +126,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-r-30a7b0275/)
-<<<<<<< HEAD
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/Chiefx0)
 =======
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Chiefx0)
->>>>>>> 3f9a5e83f44a3b2508ef9c108809b02c3d2260ba
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram) -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com) -->
 <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) -->
@@ -167,10 +159,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 </div>
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 3f9a5e83f44a3b2508ef9c108809b02c3d2260ba
+
 
 <!--
 -## Hi there 👋
