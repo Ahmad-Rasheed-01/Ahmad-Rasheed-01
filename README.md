@@ -109,7 +109,7 @@
 <!-- ## 💡 Inspirational Quote -->
 
 <div align="center">
-  <img src="./assets\images\When_you_say_nothing.png.png" alt="When You Say Nothing You Choose a Side" width="600">
+  <img src="assets\images\When_you_say_nothing.png.png" alt="When You Say Nothing You Choose a Side" width="600">
 </div>
 
 ---
