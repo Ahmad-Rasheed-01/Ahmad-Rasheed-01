@@ -25,17 +25,17 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,powershell,bash,cpp,c,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,powershell,bash,cpp,c,html,css&perline=8" alt="Programming Languages" width="400" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=electron,flask,bootstrap" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=electron,flask,bootstrap&perline=3" alt="Frameworks" width="150" />
 <!-- <img src="https://skillicons.dev/icons?i=electron,react,nodejs,express,django,flask,bootstrap" alt="Frameworks" /> -->
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,docker,firebase" alt="Databases & Cloud" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,docker,firebase&perline=6" alt="Databases & Cloud" width="300" />
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Tools" width="200" />
 
 ### Cybersecurity & Forensics
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-Security%20OS-00D4AA?style=flat-square&logo=parrotsecurity&logoColor=white)
