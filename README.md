@@ -1,9 +1,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brazilianscriptguy&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazilianscriptguy&layout=compact&theme=radical" alt="Top Languages">
-  <a href="https://streak-stats.demolab.com/?user=brazilianscriptguy" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=brazilianscriptguy&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rasheed-001&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://streak-stats.demolab.com/?user=Ahmad-Rasheed-001" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=Ahmad-Rasheed-001&theme=radical" alt="GitHub Streak">
   </a>
 </p>
 
