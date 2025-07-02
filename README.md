@@ -24,7 +24,7 @@ s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&durati
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,powershell,cpp,c,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,powershell,bash,cpp,c,html,css" alt="Programming Languages" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=electron,flask,bootstrap" alt="Frameworks" />
@@ -36,7 +36,30 @@ s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&durati
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
 
+### Cybersecurity & Forensics
+<img src="https://skillicons.dev/icons?i=kali,linux" alt="Security Tools" />
+
+![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-purple?style=for-the-badge&logo=autopsy&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensic%20Imaging-blue?style=for-the-badge&logo=accessdata&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-Memory%20Analysis-8B0000?style=for-the-badge&logo=volatility&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-Malware%20Detection-FF4500?style=for-the-badge&logo=yara&logoColor=white)
+
 </div>
+
+---
+
+<!-- ## 🏅 Certifications & Learning
+
+<div align="center">
+
+![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-blue?style=for-the-badge&logo=security)
+
+</div> -->
 
 ---
 
@@ -71,14 +94,14 @@ s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&durati
 
 ---
 
-<!-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-1&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/Linux-Investigation-Triage-Environment-LITE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-2&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/your-project-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-2&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/VISION-X)
 
-</div> -->
+</div>
 
 <!-- > 💡 **Note**: Replace `your-project-1` and `your-project-2` with your actual repository names to showcase your best work! -->
 
@@ -87,7 +110,7 @@ s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&durati
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/waka_5483ebfc-321e-465f-8c49-5350d3c1a5d9/wakatime?username=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="Wakatime Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
 </div>
 
 <!-- ## 📈 Coding Activity -->
@@ -119,12 +142,12 @@ s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&durati
 </div>
 
 ---
-
+<!-- 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+  <img src="https://raw.githubusercontent.com/Ahmad-Rasheed-01/Ahmad-Rasheed-01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div> -->
 
 ---
 
