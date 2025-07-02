@@ -1,4 +1,5 @@
-s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Digital+Forensics+%26+Cyber+Security+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ahmad+Rasheed+👋;Digital+Forensics+%26+Cyber+Security+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -98,20 +99,20 @@ s<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&durati
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-1&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/Linux-Investigation-Triage-Environment-LITE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=your-project-2&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/VISION-X)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=Linux-Investigation-Triage-Environment-LITE&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/Linux-Investigation-Triage-Environment-LITE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=VISION-X&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/VISION-X)
 
 </div>
 
 <!-- > 💡 **Note**: Replace `your-project-1` and `your-project-2` with your actual repository names to showcase your best work! -->
 
 ---
-
+<!-- 
 ## 📈 Coding Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Rasheed-01&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Activity" alt="Weekly Activity Graph" width="800">
-</div>
+</div> -->
 
 <!-- ## 📈 Coding Activity -->
 <!-- 
