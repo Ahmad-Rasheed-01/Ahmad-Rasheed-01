@@ -13,15 +13,28 @@
 
 - 🔭 I'm currently working on **exciting projects** and expanding my skill set
 - 🌱 I'm currently learning **new technologies** and best practices
-- 👯 I'm looking to collaborate on **open source projects**
+- 👯 I'm looking to collaborate on **open-source forensic & cyber security projects**
 - 💬 Ask me about **programming, technology, and Cyber Security**
 - ⚡ Fun fact: **I love solving complex problems and turning ideas into reality!**
-<!-- - 📫 How to reach me: **[Your Email]** or connect with me on social media -->
+<!-- - 📫 How to reach me: **[Your Email]** or -->
+📫 How to reach me: connect with me on social media [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-r-30a7b0275/)
 
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
+
+### Cybersecurity & Forensics
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-Security%20OS-00D4AA?style=flat-square&logo=parrotsecurity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Operating%20System-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-purple?style=flat-square&logo=autopsy&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensic%20Imaging-blue?style=flat-square&logo=accessdata&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-Memory%20Analysis-8B0000?style=flat-square&logo=volatility&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-Malware%20Detection-FF4500?style=flat-square&logo=yara&logoColor=white)
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,javascript,powershell,bash,cpp,c,html,css&perline=8" alt="Programming Languages" width="400" />
@@ -36,17 +49,6 @@
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Tools" width="200" />
 
-### Cybersecurity & Forensics
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-Security%20OS-00D4AA?style=flat-square&logo=parrotsecurity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Operating%20System-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-purple?style=flat-square&logo=autopsy&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-Forensic%20Imaging-blue?style=flat-square&logo=accessdata&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-Memory%20Analysis-8B0000?style=flat-square&logo=volatility&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-Malware%20Detection-FF4500?style=flat-square&logo=yara&logoColor=white)
 
 </div>
 
@@ -160,6 +162,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 </div>
 
+
+<p align="center">&copy; 2025 Ahmad Rasheed. All rights reserved.</p>
 
 <!--
 -## Hi there 👋
