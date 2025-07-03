@@ -110,7 +110,9 @@
 
 <div align="center">
   <!-- <img src="./assets/images/When_you_say_nothing.png" alt="When You Say Nothing You Choose a Side" width="600"> -->
-  <img src="./assets/images/POWERPNT_OPBKlkbNIc.png" alt="When You Say Nothing You Choose a Side" width="600">
+<div align="center">
+  <h2 style="color: #888; font-size: 2.5em; margin-bottom: 0; font-weight: 300;">When You Say <span style="color: #ccc;">Nothing</span>,</h2>
+  <h1 style="color: #ff4444; font-size: 4em; margin-top: 0; font-weight: 900; letter-spacing: 2px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">YOU CHOOSE A SIDE</h1>
 </div>
 
 ---
