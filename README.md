@@ -16,8 +16,9 @@
 - 👯 I'm looking to collaborate on **open-source forensic & cyber security projects**
 - 💬 Ask me about **programming, technology, and Cyber Security**
 - ⚡ Fun fact: **I love solving complex problems and turning ideas into reality!**
-<!-- - 📫 How to reach me: **[Your Email]** or -->
 - 📫 How to reach me: connect with me on **LinkedIn**
+
+<!-- - 📫 How to reach me: **[Your Email]** or -->
 
 
 ## 🛠️ Tech Stack & Tools
