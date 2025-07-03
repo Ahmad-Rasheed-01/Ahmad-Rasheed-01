@@ -65,7 +65,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="GitHub Streak" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Rasheed-01&theme=radical&hide_border=true" alt="GitHub Streak" width="500">
 </div>
 
 <div align="center">
@@ -109,7 +109,8 @@
 <!-- ## 💡 Inspirational Quote -->
 
 <div align="center">
-  <img src="./assets/images/When_you_say_nothing.png" alt="When You Say Nothing You Choose a Side" width="600">
+  <!-- <img src="./assets/images/When_you_say_nothing.png" alt="When You Say Nothing You Choose a Side" width="600"> -->
+  <img src="./assets/images/POWERPNT_OPBKlkbNIc.png" alt="When You Say Nothing You Choose a Side" width="600">
 </div>
 
 ---
