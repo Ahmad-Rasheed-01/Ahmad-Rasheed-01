@@ -90,6 +90,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=Linux-Investigation-Triage-Environment-LITE&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/Linux-Investigation-Triage-Environment-LITE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=VISION-X&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/VISION-X)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=Linux-Audit-Utility&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/Linux-Audit-Utility)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmad-Rasheed-01&repo=AD-Audit-Utility&theme=radical&hide_border=true)](https://github.com/Ahmad-Rasheed-01/AD-Audit-Utility)
+
 </div>
 
 ---
@@ -99,7 +102,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-r-30a7b0275/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x-twitter&logoColor=white)](https://x.com/Chiefx0)
+
 
 
 
